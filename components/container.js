@@ -4,6 +4,7 @@ import Navigation from "./navigation";
 const Container = (props) => (
   <div>
     <Head>
+      <link rel="shortcut icon" href="../.next/static/favicon.ico" />
       <title>Next.js Project</title>
       <link
         rel="stylesheet"
